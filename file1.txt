@@ -1,4 +1,7 @@
 this is navya
 from srd
 doing in hcl
+<<<<<<< HAD
 ubuntu changes did in putty
+wfh
+bye bye
